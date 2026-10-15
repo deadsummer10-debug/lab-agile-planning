@@ -7,7 +7,7 @@ assignees: ''
 
 ---
 
-**As a** [role]  
+**As a user  
  **I need to list all counters
  **So that I can see the status of each one
    
