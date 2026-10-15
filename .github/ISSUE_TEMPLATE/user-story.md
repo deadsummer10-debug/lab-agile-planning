@@ -8,16 +8,16 @@ assignees: ''
 ---
 
 **As a** [role]  
- **I need** [function]  
- **So that** [benefit]  
+ **I need to list all counters
+ **So that I can see the status of each one
    
  ### Details and Assumptions
- * [document what you know]
+- Counters already exist in the service
    
  ### Acceptance Criteria  
    
  ```gherkin
- Given [some context]
- When [certain action is taken]
- Then [the outcome of action is observed]
+ Given counters exist in the service
+ When I request the list of counters
+ Then I receive the full list with their values
  ```
